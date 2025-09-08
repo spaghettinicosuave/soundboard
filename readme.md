@@ -26,6 +26,7 @@ A Linux audio soundboard application with virtual microphone support for Discord
 - **Scan** - Find new audio files
 - **Stop All** - Stop all currently playing sounds
 - **Refresh** - Reload the sound list
+<img width="1081" height="663" alt="soundboard-gui" src="https://github.com/user-attachments/assets/6075639a-caa0-4431-b171-4c14b650aba2" />
 
 ### Command Line
 After running the AppImage once, alias /home/[user]/soundboard/soundboard.sh in your .bashrc to use terminal commands:
