@@ -28,7 +28,7 @@ A Linux audio soundboard application with virtual microphone support for Discord
 - **Refresh** - Reload the sound list
 
 ### Command Line
-After running the AppImage once, you can use terminal commands:
+After running the AppImage once, alias /home/[user]/soundboard/soundboard.sh in your .bashrc to use terminal commands:
 ```bash
 soundboard                    # List all sounds
 soundboard scan              # Scan for new audio files
