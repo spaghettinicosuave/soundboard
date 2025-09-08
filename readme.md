@@ -20,7 +20,7 @@ I recommend installing helvum pipewire patchbay if you run into weird audio issu
 ## Usage
 
 ### GUI Controls
-- **Left Click** - Play sound to headphones only
+- **Left Click** - Play sound to headphones and virtual microphone
 - **Middle Click + Key** - Bind sound to a keyboard key
 - **Right Click** - Unbind a sound
 - **Setup** - Create virtual microphone setup
