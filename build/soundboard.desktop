@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Soundboard
+Comment=Audio soundboard with virtual microphone support
+Exec=soundboardgui
+Icon=soundboard
+Categories=AudioVideo;Audio;
+Terminal=false
