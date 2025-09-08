@@ -24,7 +24,7 @@ I recommend installing helvum pipewire patchbay if you run into weird audio issu
 - **Middle Click + Key** - Bind sound to a keyboard key
 - **Right Click** - Unbind a sound
 - **Setup** - Create virtual microphone setup
-- **Shutdown** - Put away the virtual audio setup (cleanup)
+- **Shutdown** - Put away the virtual audio setup and xbindtools (cleanup+free your keys from being bound)
 - **Scan** - Find new audio files
 - **Stop All** - Stop all currently playing sounds
 - **Refresh** - Reload the sound list
